@@ -1,1 +1,1 @@
-# CrossingTracker
+This project aims to ease managing diffrent type of critters and fish you can only find during specifict time-frames in the game Animal Crossing for the Nintendo Switch.
